@@ -10,6 +10,8 @@ from streamlit_pandas_profiling import st_profile_report
 #Machine Learning imports
 from pycaret.classification import setup, compare_models, pull, save_model
 
+#WebApp
+
 with st.sidebar:
     st.image("https://img.freepik.com/free-vector/robotic-artificial-intelligence-technology-smart-lerning-from-bigdata_1150-48136.jpg?size=626&ext=jpg")
     st.title("AutoStreamML")
