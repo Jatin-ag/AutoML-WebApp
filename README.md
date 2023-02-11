@@ -9,5 +9,7 @@ It provides the following functionality:
 - Download the trained model
 
 The WebApp is created using streamlit.
+
 Profiling is performed using pandas_profiling.
+
 ML models are generated and compared using pycaret
